@@ -1,0 +1,17 @@
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+set number
+set backup
+set backupdir=~/.vim/backup
+set directory=~/.vim/tmp
+set cul
+set history=200
+set visualbell
+set t_vb=
+set noerrorbells
+set scrolloff=5
+set incsearch
+set ignorecase
+set hlsearch
+set showmatch
